@@ -60,7 +60,18 @@ Here are some ideas to get you started:
 
 
 
+## Extra-Activity
 
+- 2016 Attending the KSAIM Spring Conference 
+
+- 2017 Announcement on the Kangwon-Kyunggi Mathematical Society Jounal Conference 
+(Rising Mathematicians : Application of principal component analysis and support vector machine to data sets with weak correlation)
+
+- 2019 Attending the 1st Industrial Mathematics Moderator Capacity Building Program
+
+- 2019 Attending the 5th Industrial Mathematics Academy 
+
+- 2020 Lecture on Statistics Basic in Hwikyeong Girls' High School, Seoul-Kyunghee University MOU
 
 
 ## Skills
