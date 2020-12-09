@@ -50,19 +50,20 @@ Here are some ideas to get you started:
 
 - Numerical Analysis with neural network
 
+- PDE and ODE with neural network
+
+- Graph neural network
+
 - Optimization
 
 - Reinforcement Learning 
 
-- PDE and ODE with neural network
-
 - Object detection
 
+- Multilinear Algebra 
 
 
 ## Extra-Activity
-
-- 2016 Attending the KSAIM Spring Conference 
 
 - 2017 Announcement on the Kangwon-Kyunggi Mathematical Society Jounal Conference 
 (Rising Mathematicians : Application of principal component analysis and support vector machine to data sets with weak correlation)
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
 
 - 2019 Attending the 5th Industrial Mathematics Academy 
 
-- 2020 Lecture on Statistics Basic in Hwikyeong Girls' High School, Seoul-Kyunghee University MOU
+- 2020 Lecture on Statistics Basic in Hwikyung Girls' High School, Seoul-KyungHee University MOU
 
 
 ## Skills
