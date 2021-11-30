@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 2019.03 - present : (Ph.D Candidate) Department of Mathematics in KyungHee University (Advisor: Prof. Kyungsoo Kim) Mathematical Modelling and Analysis Lab
 
-
+- 2021.06 - 2021.12 : NAVER CLOVA conversation Intern (Language Representation team) 
 
 
 
