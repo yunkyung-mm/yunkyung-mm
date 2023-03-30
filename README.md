@@ -39,9 +39,11 @@ Here are some ideas to get you started:
 
 - 2018.01 - 2019.03 : Tricubics AI team. Object detection and tracking algorithm development and research
 
+- 2021.06 - 2021.12 : NAVER CLOVA conversation Intern (Language Representation team) 
+
 - 2019.03 - present : (Ph.D Candidate) Department of Mathematics in KyungHee University (Advisor: Prof. Kyungsoo Kim) Mathematical Modelling and Analysis Lab
 
-- 2021.06 - 2021.12 : NAVER CLOVA conversation Intern (Language Representation team) 
+- 2023.03 - present : Machine learning researcher in Leaners company 
 
 
 
@@ -56,11 +58,8 @@ Here are some ideas to get you started:
 
 - Optimization
 
-- Reinforcement Learning 
-
 - Object detection
 
-- Multilinear Algebra 
 
 
 ## Extra-Activity
@@ -74,10 +73,11 @@ Here are some ideas to get you started:
 
 - 2020 Lecture on Statistics Basic in Hwikyung Girls' High School, Seoul-KyungHee University MOU
 
+- 2022 Announcement on KSIAM 
 
 ## Skills
 
-- Python, MATLAB, C
+- Python, MATLAB
 
 
 
