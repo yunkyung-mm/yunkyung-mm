@@ -41,11 +41,12 @@ Here are some ideas to get you started:
 
 - 2021.06 - 2021.12 : NAVER CLOVA conversation Intern (Language Representation team) 
 
+- 2023.03 - 2023.06 : Machine learning researcher in Learners company 
+
 - 2019.03 - present : (Ph.D Candidate) Department of Mathematics in KyungHee University (Advisor: Prof. Kyungsoo Kim) Mathematical Modelling and Analysis Lab
 
 - 2023.08 - present : AI research engineer in Noul
 
-- 2023.03 - 2023.06 : Machine learning researcher in Learners company 
 
 
 
