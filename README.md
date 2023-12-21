@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 
 - 2019.03 - present : (Ph.D Candidate) Department of Mathematics in KyungHee University (Advisor: Prof. Kyungsoo Kim) Mathematical Modelling and Analysis Lab
 
-- 2023.03 - present : Machine learning researcher in Learners company 
+- 2023.08 - present : AI research engineer in Noul
 
+- 2023.03 - 2023.06 : Machine learning researcher in Learners company 
 
 
 
